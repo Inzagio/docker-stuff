@@ -31,7 +31,8 @@ For clarifications, we will use WSL2
 There are mainly two approaches to running containers in a Windows-esque setting.
 
 **Option 1**:
-    We run docker engine directly inside WSL2
+    We run docker engine directly inside WSL2 
+    [Docker Engine Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 
 **Option 2**:
     We use Docker Desktop as a gui overlay
