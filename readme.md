@@ -44,9 +44,9 @@ We can run docker commands impertively or in a delcrative fashion.
 When we are dealing with infrastructure designed to be supported by multiple teams, we always want to prefer a delaractive approach, because this can also be versioned in a VCS (version control system) git. 
 
 
-[Docker Labs Collabnix](https://dockerlabs.collabnix.com/)
-[Docker Labs Cheatsheet](https://collabnix.com/docker-cheatsheet/)
-[Docker Getting Started](https://github.com/docker/getting-started)
+[Docker Labs Collabnix](https://dockerlabs.collabnix.com/)  
+[Docker Labs Cheatsheet](https://collabnix.com/docker-cheatsheet/)  
+[Docker Getting Started](https://github.com/docker/getting-started)  
 
 
 
@@ -56,5 +56,5 @@ When we are dealing with infrastructure designed to be supported by multiple tea
 Charm is a beautiful tool for creating cli-like behaviour in your shell scripts (.sh)
 Seriously take a look at it.
 
-[Charm](https://charm.sh/)
+[Charm](https://charm.sh/)  
 [Charm Gum](https://github.com/charmbracelet/gum)
